@@ -4,9 +4,7 @@
 
 The work merges a fractal Apollonian gasket with a synthwave-styled sunset.
 
-The files intended for physical printing are 300 ppi, 16-bit CMYK colour, pdf files with 3 mm bleed margins and trim marks.
-
-The file intended for digital display is a (1200 &times; 900) pixel, 300 ppi, 8-bit RGB colour, PNG file.
+The files intended for physical printing are 300 ppi, 16-bit CMYK colour, pdf files with 3 mm bleed margins and trim marks. The file intended for digital display is a (1200 &times; 900) pixel, 300 ppi, 8-bit RGB colour, PNG file.
 
 Included Files
 
