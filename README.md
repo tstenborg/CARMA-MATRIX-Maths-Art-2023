@@ -1,6 +1,6 @@
 # CARMA-MATRIX-Maths-Art-2023
 
-2nd place-award winning entry for the CARMA-MATRIX maths art 2023 competition.
+2nd place award-winning entry for the CARMA-MATRIX maths art 2023 competition.
 
 The work merges a fractal Apollonian gasket with a synthwave-styled sunset.
 
